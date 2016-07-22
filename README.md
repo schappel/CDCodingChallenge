@@ -1,0 +1,1 @@
+This project contains a coding challenge for ConnectDevelop.
